@@ -30,7 +30,8 @@ var rootCmd = &cobra.Command{
 	Use:   "gocode",
 	Short: "Golang scaffolding code",
 	Long: `It can generate the following framework code: 
-* GraphQL`,
+* GraphQL
+* NSQ`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	//	Run: func(cmd *cobra.Command, args []string) { },
