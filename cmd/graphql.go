@@ -21,7 +21,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/andy-zhangtao/GoCode/tpl"
+	"ggcode/tpl"
 	"github.com/spf13/cobra"
 )
 

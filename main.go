@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/andy-zhangtao/GoCode/cmd"
+import "ggcode/cmd"
 
 func main() {
 	cmd.Execute()
